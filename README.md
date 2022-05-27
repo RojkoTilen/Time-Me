@@ -1,3 +1,5 @@
+# Aplikacija je bila zgrajena na GitLab-u, in je privatna zaradi sodelovanja z več razvijalci.
+
 # TimeMe <img src="https://i.imgur.com/kuPBkLr.png" height="70px" width="70px"> – aplikacija za beleženje opravljenega dela
 TimeMe je spletna aplikacija, ki je prvotno namenjena freelancerjem in vsem, ki vsakodnevno delajo na več projektih z različnimi delodajalci. 
 S pomočjo TimeMe lahko uporabnik preprosto vodi evidenco opravljenih storitev za posamezne projekte, ki jih sam doda. Ponujen je tudi pregled nad opravljenim delom v obliki poročil in grafov o skupno opravljenem delu ali posameznih delodajalcih.
